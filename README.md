@@ -9,7 +9,7 @@
 [Enlace a la organización](https://github.com/ULL-MFP-AET-2324-alu0100815207)
 
 
-## {{site.asignatura}}
+## {{ site.asignatura }}
 
 
 To edit this repository in MakeCode.
