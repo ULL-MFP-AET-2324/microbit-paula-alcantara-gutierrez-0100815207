@@ -3,6 +3,10 @@ makecode:
   platform: microbit
   home_url: https://makecode.microbit.org/
 theme: jekyll-theme-cayman
+asignatura: Aprendizaje y Enseñanza de la Tecnología
+lista_de_alumnos:
+ - Cristian
+ - Óscar
 include:
   - assets
   - README.md
